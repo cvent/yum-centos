@@ -20,7 +20,7 @@ group :kitchen_common do
 end
 
 group :kitchen_vagrant do
-  gem 'kitchen-vagrant', '~> 0.18'
+  gem 'kitchen-vagrant', '~> 2.2', '>= 2.2.1'
 end
 
 group :kitchen_cloud do
