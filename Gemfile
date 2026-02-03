@@ -32,7 +32,7 @@ group :development do
   gem 'ruby_gntp'
   gem 'growl'
   gem 'rb-fsevent'
-  gem 'guard', '~> 2.4'
+  gem 'guard', '~> 2.20', '>= 2.20.1'
   gem 'guard-kitchen'
   gem 'guard-foodcritic'
   gem 'guard-rspec'
